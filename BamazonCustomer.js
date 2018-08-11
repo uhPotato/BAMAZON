@@ -107,10 +107,6 @@ function order(itemOrdered, quantityOrdered) {
 		// if there is an error throw it
 		if (err) throw err;
 
-		// testing let's log some stuff
-		// console.log(res);
-		// console.log(res[0].ItemID, res[0].StockQuantity);
-
 		// check if quantity ordered is in stock
 		// since query is returned as array always, and we are
 		// looking at a unique ItemID, just reference array index 0
