@@ -6,7 +6,7 @@ var consoleTable = require('console.table');
 var connection = mysql.createConnection({
 	host: "localhost",
 	user: "root",
-	password: "JodahIs100%OP",
+	password: "password",
 	database: "Bamazon"
 });
 
