@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "BAMAZON Customer and Manager Transaction DB Homework",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhPotato/BAMAZON.git"
+  },
+  "author": "PDD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhPotato/BAMAZON/issues"
+  },
+  "homepage": "https://github.com/uhPotato/BAMAZON#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
